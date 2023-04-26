@@ -1,0 +1,11 @@
+Using Plugins
+1.Core plugins are already part of the standard QGIS installation. To use these, just enable them
+2.Open QGIS. Click on Plugins → Manage and Install Plugins....
+3.To enable a plugin, check on the checkbox next to Plugin. This will enable the plugin to use it.
+4.External plugins are available in the QGIS Plugins Repository and need to be installed by the users
+ before using them.
+5.Before starting with installation of plugin go to Setting tab and check the following check box.
+6.Click on Not Installed or Install from ZIP. And search for “OpenLayers Plugin” and install it, if it
+ is not installed already. Similarly, install “OSM place search” plugin.
+7.Once the plugin is downloaded and installed, we will see a confirmation dialog or we can check in installed
+ tab.
